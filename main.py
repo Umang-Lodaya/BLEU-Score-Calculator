@@ -131,6 +131,9 @@ st.set_page_config(page_title = "BLEU Score Calculator", layout = "wide")
 
 print("==========START============")
 st.title("BLEU Score Calculator")
+st.markdown(
+    "Made By: Umang Kirit Lodaya [GitHub](https://github.com/Umang-Lodaya/BLEU-Score-Calculator) | [LinkedIn](https://www.linkedin.com/in/umang-lodaya-074496242/) | [Kaggle](https://www.kaggle.com/umanglodaya)"
+)
 
 pred = ""; refs = ""
 
