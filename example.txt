@@ -1,0 +1,5 @@
+Example 1
+Predicted Text: It It It is raining heavily
+Reference Text: 
+It was a rainy day
+It was raining heavily today
